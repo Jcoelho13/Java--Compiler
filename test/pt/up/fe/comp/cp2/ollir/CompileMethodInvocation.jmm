@@ -1,0 +1,23 @@
+import io;
+import java.util.Scanner;
+import java.util.Random;
+import lava.util;
+import List;
+import lava.io.a.s;
+
+class CompileMethodInvocation {
+
+    public static void main(String[] args) {
+
+    }
+
+    public int foo() {
+        int a;
+
+        a = 1;
+
+        io.println(a);
+
+        return 0;
+    }
+}
